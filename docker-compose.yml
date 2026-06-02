@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  llmops-dashboard:
+    build: .
+    ports:
+      - "8504:8504"
+    volumes:
+      - ./artifacts:/app/artifacts

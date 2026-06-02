@@ -1,0 +1,23 @@
+{
+  "run_id": "candidate-qlora-regressed",
+  "model_name": "Qwen2.5-0.5B-Instruct + unstable adapter",
+  "stage": "staging",
+  "source_project": "04 - LLMOps Experiment Tracker and Regression Gate",
+  "created_at": "2026-06-02T02:57:59.139638+00:00",
+  "notes": "Synthetic negative-control run used to demonstrate gate failures.",
+  "stack": [
+    "PyTorch",
+    "QLoRA",
+    "misconfigured-runtime"
+  ],
+  "metrics": {
+    "rougeL_mean": 0.281,
+    "latency_mean_seconds": 0.891,
+    "generated_tokens_mean": 42.1,
+    "prompt_tokens_mean": 276.73
+  },
+  "tags": {
+    "family": "scientific-tldr",
+    "runtime": "adapter-regressed"
+  }
+}

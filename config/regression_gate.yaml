@@ -1,0 +1,8 @@
+quality_metric: rougeL_mean
+latency_metric: latency_mean_seconds
+token_metric: generated_tokens_mean
+thresholds:
+  max_quality_drop: 0.005
+  max_latency_increase_seconds: 0.20
+  max_generated_token_increase: 5.0
+required_stage_for_promotion: staging

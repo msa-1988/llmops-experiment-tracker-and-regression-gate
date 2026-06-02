@@ -1,0 +1,5 @@
+project_name: LLMOps Experiment Tracker and Regression Gate
+baseline_source_project: "03 - Fine-Tune and Optimize a Small Domain LLM"
+owner: Mohammed Shabbir Ali
+deployment_target: Azure-ready containerized dashboard
+primary_use_case: Compare fine-tuned LLM candidates against a production baseline before promotion
