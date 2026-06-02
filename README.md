@@ -1,5 +1,7 @@
 # LLMOps Experiment Tracker and Regression Gate
 
+Repository: `https://github.com/msa-1988/llmops-experiment-tracker-and-regression-gate`
+
 Build a compact `MLOps / LLMOps` control plane for model experimentation, evaluation, deployment gating, and interview-friendly observability.
 
 This project turns the outputs of the earlier `Scientific TLDR LLM Studio` into a production-style workflow:
