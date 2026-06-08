@@ -12,7 +12,7 @@ This project turns the outputs of the earlier `Scientific TLDR LLM Studio` into 
 - generate human-readable reports for reviews
 - surface everything in a lightweight `Streamlit` dashboard
 
-The goal is not to clone a full platform like MLflow or W\&B. The goal is to show that the core `MLOps` ideas and can build a clean, reviewable implementation from scratch.
+The goal is not to clone a full platform like MLflow or W\&B. The goal is to show that the core `MLOps` ideas and build a clean, reviewable implementation from scratch.
 
 ## What This Project Shows
 
