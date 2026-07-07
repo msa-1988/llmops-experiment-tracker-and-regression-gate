@@ -8,7 +8,7 @@
 
 Repository: `https://github.com/msa-1988/llmops-experiment-tracker-and-regression-gate`
 
-LLM releases should not be promoted because a demo "looks good." This project implements a compact LLMOps control plane that registers model runs, compares candidates against a production baseline, blocks regressions, and produces a reviewable promotion report.
+This project implements a compact LLMOps control plane that registers model runs, compares candidates against a production baseline, blocks regressions, and produces a reviewable promotion report.
 
 ## 10-Second Summary
 
